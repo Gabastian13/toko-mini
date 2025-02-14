@@ -65,8 +65,9 @@ The build output will be in the `dist/` folder.
 ## 🖼️ Screenshots
 Here are some screenshots of the project:
 
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
+![Login](public/screenshoot/login.png)
+![Product](public/screenshoot/product.png)
+![ProductAdd](public/screenshoot/product-add.png) 
 
 ## 📜 License
 This project is licensed under the [MIT](LICENSE) license.
